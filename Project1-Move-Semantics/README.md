@@ -1,10 +1,14 @@
 ### Project 1 - Move Semantics in a Simulated File System ####
 
+--- --- --- --- --- --- ---
+
 ### Overview ### 
 
 - This C++ project simulates a basic file system using `File` and `Folder` classes. The main objective was to implement and demonstrate mastery of the Big Five (copy constructor, move constructor, copy assignment, move assignment, and destructor) through proper memory and resource management.
 
 - The assignment emphasizes object-oriented programming, move semantics, and deep vs. shallow copy concepts. The classes were tested using `MyTests.cpp`.
+
+--- --- --- --- --- --- ---
 
 ### Requirements ### 
 
