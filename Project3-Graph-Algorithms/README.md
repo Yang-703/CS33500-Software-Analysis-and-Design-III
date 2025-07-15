@@ -1,10 +1,14 @@
 ### Project 3 - TSP Nearest Neighbor Algorithm ####
 
+--- --- --- --- --- --- ---
+
 ### Overview ### 
 
 This project approximates a solution for the Traveling Salesman Problem (TSP). Given a list of cities and distances, the algorithm attempts to construct a reasonably efficient tour by always visiting the nearest unvisited city.
 
 The goal was to work with real geographical datasets, implement it efficiently in C++, and gain experience with algorithm design and graph traversal.
+
+--- --- --- --- --- --- ---
    
 ### Requirements ### 
 
