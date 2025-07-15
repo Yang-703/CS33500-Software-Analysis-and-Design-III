@@ -1,6 +1,6 @@
 ### Software Analysis and Design III (CS33500) ###
 
-This repository contains three projects I completed for the Software Analysis and Design III course. The course focuses on the design, analysis, and implementation of algorithms and the data structures they utilize.
+This repository contains three projects I completed for my Software Analysis and Design III course. The course focuses on the design, analysis, and implementation of algorithms and the data structures they utilize.
 
 --- --- --- --- --- --- --- 
 
