@@ -1,10 +1,14 @@
 ### Project 2 - AVL Trees and Hashing ####
 
+--- --- --- --- --- --- ---
+
 ### Overview ### 
 
 This project extends a simulated file system with two advanced search features:
 1. Ranged file size search using an AVL tree.
 2. Prefix-based file name search using a custom prefix trie.
+
+--- --- --- --- --- --- ---
    
 ### Requirements ### 
 
