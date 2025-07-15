@@ -6,7 +6,6 @@
 
 - The assignment emphasizes object-oriented programming, move semantics, and deep vs. shallow copy concepts. The classes were tested using `MyTests.cpp`.
 
-
 ### Requirements ### 
 
 " In this assignment, you will implement a File class and a Folder class using the Big 5.
