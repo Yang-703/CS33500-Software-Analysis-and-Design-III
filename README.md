@@ -1,10 +1,10 @@
-* Software Analysis and Design III (CS33500) *
+### Software Analysis and Design III (CS33500) ###
 
 This repository contains three projects I completed for the Software Analysis and Design III course. The course focuses on the design, analysis, and implementation of algorithms and the data structures they utilize.
 
 --- --- --- --- --- --- --- 
 
-* Course Overview *
+### Course Overview ###
 
 In this course, we studied advanced data structures and algorithms with an emphasis on both theoretical understanding and practical implementation, as well as exploring more complex structures including :
 - Self-balancing trees
@@ -17,7 +17,7 @@ The course emphasized algorithmic analysis, efficiency, and writing well-organiz
 
 --- --- --- --- --- --- --- 
 
-* Learning Outcome *
+### Learning Outcome ###
 
 By completing this course, I developed the ability to : 
 - Understand how commonly used data structures work and the efficiency of their operations.
@@ -27,7 +27,7 @@ By completing this course, I developed the ability to :
 
 --- --- --- --- --- --- --- 
 
-* Projects *
+### Projects ###
 
 - Project 1 : Move Semantics
 Implemented a File and Folder class in C++ to simulate a simplified file system. The focus was practicing the Big 5 : copy constructor, move constructor, copy assignment operator, move assignment operator, destructor. This project reinforced concepts in object-oriented programming and move semantics.
